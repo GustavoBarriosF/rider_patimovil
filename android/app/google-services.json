@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "25248889320",
+    "firebase_url": "https://patimovil-ccb6a.firebaseio.com",
+    "project_id": "patimovil-ccb6a",
+    "storage_bucket": "patimovil-ccb6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25248889320:android:62517acdec918037b78c5d",
+        "android_client_info": {
+          "package_name": "com.galexsolution.patimovil_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25248889320-9q2j9kdtccbgd5fb6o8fucu1u1ivshde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galexsolution.patimovil_rider",
+            "certificate_hash": "c6686f2dc266114d96d4fddd3ca0f7d26cd6b80c"
+          }
+        },
+        {
+          "client_id": "25248889320-aaebtbf83lbe7fhr8g37u2u8s8h2k36q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-GXYb1Xb7F3QtAva0-x1yWrsmVE0i8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25248889320-aaebtbf83lbe7fhr8g37u2u8s8h2k36q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25248889320-buqg9u3o9bci9ljhg5rgamt4p8rp436o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "galexsolution.com.patimovilTransport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
